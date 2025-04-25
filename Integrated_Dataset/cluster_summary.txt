@@ -1,0 +1,38 @@
+Cluster 1: 44 items
+  - Boisterous
+  - Confident
+  - Passionate
+  - Rousing
+  - Rowdy
+
+Cluster 2: 43 items
+  - Amiable-good natured
+  - Cheerful
+  - Fun
+  - Rollicking
+  - Sweet
+
+Cluster 3: 48 items
+  - Autumnal
+  - Bittersweet
+  - Brooding
+  - Literate
+  - Poignant
+  - Wistful
+
+Cluster 4: 33 items
+  - Campy
+  - Humorous
+  - Silly
+  - Witty
+  - Wry
+  - whimsical
+
+Cluster 5: 25 items
+  - Agressive
+  - Fiery
+  - Intense
+  - Tense - Anxious
+  - Visceral
+  - Volatile
+
