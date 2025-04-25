@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor/IDE files (optional, safe to ignore too)
+*.swp
+*.swo
+.idea/
+.vscode/

@@ -1,0 +1,3 @@
+pydub
+pretty_midi
+numpy
