@@ -6,13 +6,13 @@
     },
     "008": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "009": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "012": {
         "audio": "degraded",
@@ -25,14 +25,14 @@
         "midi": "clean"
     },
     "020": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "032": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "037": {
         "audio": "clean",
@@ -41,23 +41,23 @@
     },
     "039": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "040": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "042": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "044": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "049": {
         "audio": "clean",
@@ -65,8 +65,8 @@
         "midi": "degraded"
     },
     "055": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "059": {
@@ -81,18 +81,18 @@
     },
     "064": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "066": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "069": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "072": {
         "audio": "clean",
@@ -110,24 +110,24 @@
         "midi": "clean"
     },
     "092": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "097": {
-        "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "099": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "108": {
         "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "097": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "099": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "108": {
+        "audio": "clean",
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "111": {
         "audio": "clean",
@@ -140,18 +140,18 @@
         "midi": "clean"
     },
     "114": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "115": {
         "audio": "clean",
         "lyrics": "degraded",
         "midi": "clean"
     },
-    "117": {
-        "audio": "degraded",
+    "115": {
+        "audio": "clean",
         "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "117": {
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "119": {
@@ -161,28 +161,28 @@
     },
     "120": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "121": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
-    },
-    "124": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "125": {
-        "audio": "clean",
         "lyrics": "degraded",
         "midi": "clean"
     },
-    "128": {
+    "124": {
         "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "125": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "128": {
+        "audio": "clean",
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "129": {
         "audio": "clean",
@@ -195,8 +195,8 @@
         "midi": "clean"
     },
     "138": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "139": {
@@ -205,9 +205,9 @@
         "midi": "clean"
     },
     "148": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "157": {
         "audio": "clean",
@@ -215,24 +215,24 @@
         "midi": "degraded"
     },
     "164": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "175": {
         "audio": "clean",
         "lyrics": "degraded",
         "midi": "clean"
     },
-    "177": {
+    "175": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
     },
-    "180": {
-        "audio": "degraded",
+    "177": {
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
+    },
+    "180": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "183": {
         "audio": "clean",
@@ -240,14 +240,14 @@
         "midi": "clean"
     },
     "186": {
-        "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
-    },
-    "189": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
+    },
+    "189": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "194": {
         "audio": "clean",
@@ -255,14 +255,14 @@
         "midi": "degraded"
     },
     "197": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "198": {
         "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "198": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "205": {
         "audio": "clean",
@@ -270,9 +270,9 @@
         "midi": "degraded"
     },
     "209": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "212": {
         "audio": "clean",
@@ -280,19 +280,19 @@
         "midi": "degraded"
     },
     "216": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "218": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "228": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "231": {
         "audio": "clean",
@@ -300,14 +300,14 @@
         "midi": "degraded"
     },
     "233": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "235": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "240": {
         "audio": "clean",
@@ -316,27 +316,27 @@
     },
     "246": {
         "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "248": {
+        "audio": "clean",
         "lyrics": "degraded",
         "midi": "clean"
     },
-    "248": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
     "250": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "251": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "253": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "266": {
@@ -345,9 +345,9 @@
         "midi": "degraded"
     },
     "268": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "273": {
         "audio": "clean",
@@ -356,13 +356,13 @@
     },
     "277": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "285": {
-        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "285": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "286": {
         "audio": "clean",
@@ -370,29 +370,29 @@
         "midi": "clean"
     },
     "288": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "295": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "296": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "298": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "301": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "307": {
         "audio": "clean",
@@ -400,9 +400,9 @@
         "midi": "degraded"
     },
     "309": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "313": {
         "audio": "clean",
@@ -410,9 +410,9 @@
         "midi": "clean"
     },
     "316": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "318": {
         "audio": "degraded",
@@ -420,19 +420,19 @@
         "midi": "clean"
     },
     "328": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "332": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "334": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "338": {
         "audio": "clean",
@@ -440,8 +440,8 @@
         "midi": "clean"
     },
     "342": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "343": {
@@ -450,14 +450,14 @@
         "midi": "clean"
     },
     "344": {
-        "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "345": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
+    },
+    "345": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "347": {
         "audio": "clean",
@@ -465,14 +465,14 @@
         "midi": "clean"
     },
     "369": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "378": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "380": {
         "audio": "clean",
@@ -480,8 +480,8 @@
         "midi": "degraded"
     },
     "383": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "387": {
@@ -501,13 +501,13 @@
     },
     "397": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "400": {
-        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "400": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "402": {
         "audio": "clean",
@@ -521,8 +521,8 @@
     },
     "404": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "411": {
         "audio": "clean",
@@ -536,8 +536,8 @@
     },
     "421": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "427": {
         "audio": "clean",
@@ -550,8 +550,8 @@
         "midi": "clean"
     },
     "433": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "435": {
@@ -560,23 +560,23 @@
         "midi": "degraded"
     },
     "444": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "446": {
-        "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "447": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
     },
-    "449": {
+    "447": {
         "audio": "clean",
         "lyrics": "degraded",
+        "midi": "clean"
+    },
+    "449": {
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "462": {
@@ -610,9 +610,9 @@
         "midi": "degraded"
     },
     "505": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "506": {
         "audio": "clean",
@@ -620,14 +620,14 @@
         "midi": "clean"
     },
     "510": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "511": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "513": {
         "audio": "clean",
@@ -635,23 +635,23 @@
         "midi": "clean"
     },
     "514": {
+        "audio": "clean",
+        "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "522": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
     },
-    "522": {
-        "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
-    },
     "527": {
-        "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
-    },
-    "536": {
         "audio": "degraded",
         "lyrics": "clean",
+        "midi": "clean"
+    },
+    "536": {
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "541": {
@@ -661,43 +661,43 @@
     },
     "545": {
         "audio": "clean",
+        "lyrics": "degraded",
+        "midi": "clean"
+    },
+    "547": {
+        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
     },
-    "547": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
     "549": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "552": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "553": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "559": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "560": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "562": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "567": {
         "audio": "clean",
@@ -716,8 +716,8 @@
     },
     "577": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "579": {
         "audio": "clean",
@@ -725,14 +725,14 @@
         "midi": "degraded"
     },
     "589": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
-    "593": {
         "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "593": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "597": {
         "audio": "degraded",
@@ -740,14 +740,14 @@
         "midi": "clean"
     },
     "603": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "608": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "609": {
         "audio": "degraded",
@@ -755,8 +755,8 @@
         "midi": "clean"
     },
     "613": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "619": {
@@ -765,8 +765,8 @@
         "midi": "clean"
     },
     "626": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "662": {
@@ -776,8 +776,8 @@
     },
     "668": {
         "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
+        "lyrics": "degraded",
+        "midi": "clean"
     },
     "671": {
         "audio": "clean",
@@ -785,14 +785,14 @@
         "midi": "clean"
     },
     "672": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "680": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "686": {
         "audio": "degraded",
@@ -800,8 +800,8 @@
         "midi": "clean"
     },
     "693": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "698": {
@@ -810,8 +810,8 @@
         "midi": "clean"
     },
     "707": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "721": {
@@ -821,28 +821,28 @@
     },
     "723": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "727": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "733": {
-        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "733": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "740": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "741": {
-        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "741": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "750": {
         "audio": "degraded",
@@ -850,19 +850,19 @@
         "midi": "clean"
     },
     "754": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "757": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
-    },
-    "764": {
-        "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
+    },
+    "764": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
     },
     "773": {
         "audio": "clean",
@@ -870,28 +870,28 @@
         "midi": "clean"
     },
     "783": {
-        "audio": "clean",
+        "audio": "degraded",
         "lyrics": "clean",
-        "midi": "degraded"
+        "midi": "clean"
     },
     "794": {
-        "audio": "clean",
-        "lyrics": "clean",
-        "midi": "degraded"
-    },
-    "797": {
         "audio": "clean",
         "lyrics": "degraded",
         "midi": "clean"
     },
-    "807": {
+    "797": {
         "audio": "degraded",
         "lyrics": "clean",
         "midi": "clean"
     },
-    "808": {
-        "audio": "degraded",
+    "807": {
+        "audio": "clean",
         "lyrics": "clean",
+        "midi": "degraded"
+    },
+    "808": {
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "812": {
@@ -901,8 +901,8 @@
     },
     "815": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "836": {
         "audio": "degraded",
@@ -911,8 +911,8 @@
     },
     "838": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "839": {
         "audio": "degraded",
@@ -926,12 +926,12 @@
     },
     "843": {
         "audio": "clean",
-        "lyrics": "degraded",
-        "midi": "clean"
+        "lyrics": "clean",
+        "midi": "degraded"
     },
     "851": {
-        "audio": "clean",
-        "lyrics": "degraded",
+        "audio": "degraded",
+        "lyrics": "clean",
         "midi": "clean"
     },
     "853": {
@@ -940,28 +940,28 @@
         "midi": "clean"
     },
     "862": {
+        "audio": "degraded",
+        "lyrics": "clean",
+        "midi": "clean"
+    },
+    "864": {
         "audio": "clean",
         "lyrics": "clean",
         "midi": "degraded"
     },
-    "864": {
-        "audio": "degraded",
-        "lyrics": "clean",
-        "midi": "clean"
-    },
     "886": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     },
     "887": {
-        "audio": "degraded",
-        "lyrics": "clean",
+        "audio": "clean",
+        "lyrics": "degraded",
         "midi": "clean"
     },
     "902": {
-        "audio": "degraded",
+        "audio": "clean",
         "lyrics": "clean",
-        "midi": "clean"
+        "midi": "degraded"
     }
 }
