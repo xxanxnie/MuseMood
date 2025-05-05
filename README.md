@@ -2,13 +2,13 @@
 
 MuseMood addresses the limitations of traditional multimodal systems by introducing dynamic weighting to handle degraded inputs across audio, lyrics, and MIDI modalities. In real-world settings, inputs can be noisy or incomplete — MuseMood dynamically adjusts fusion weights based on input quality, resulting in improved robustness and emotion recognition performance.
 
-### Dataset Source
-MuseMood is built upon the MIREX Multimodal Emotion Dataset, which we obtained from Kaggle: https://www.kaggle.com/datasets/imsparsh/multimodal-mirex-emotion-dataset  
+## Dataset Source
+MuseMood is built upon the **MIREX Multimodal Emotion Dataset**, which we obtained from Kaggle: https://www.kaggle.com/datasets/imsparsh/multimodal-mirex-emotion-dataset  
 R. Panda et al., "Multi-modal music emotion recognition: A new dataset, methodology and comparative analysis," CMMR 2013.
 
-We use a filtered subset of 196 songs from the dataset — each of which contains all three modalities (audio, lyrics, MIDI). This ensures that our system has complete input during training and evaluation.
+We use a filtered subset of **196 songs** from the dataset — each of which contains all three modalities (audio, lyrics, MIDI). This ensures that our system has complete input during training and evaluation.
 
-### Installation
+## Installation
 
 This project was developed and tested primarily on macOS, but should work on any system with Python 3.7+.
 
@@ -32,8 +32,8 @@ The requirements.txt file contains all additional Python libraries we used, incl
 - torch, torchaudio
 - pretty_midi, librosa
 
-### Data Cleaning & Preprocessing
-MuseMood uses raw .mp3, .txt, and .mid files stored in integrated_dataset/ to extract features. The dataset in the repo has already been preprocessed, but the below contain the preprocessing step from raw.
+## Data Cleaning & Preprocessing
+MuseMood uses raw **.mp3, .txt, and .mid** files stored in integrated_dataset/ to extract features. The dataset in the repo has already been preprocessed, but the below contain the preprocessing step from raw.
 
 **Step 1: Preprocessing Raw Data**
 ```bash
@@ -62,14 +62,11 @@ This script creates mixed-input cases — e.g., clean audio with degraded lyrics
 
 ***Key Metadata Files***
 - filename_to_emotion.txt: Maps each file (e.g., song001.wav) to its corresponding emotion label.
-
 - cluster_summary.txt: Lists each cluster and the emotion it represents (e.g., Cluster 1 → Boisterous, Cluster 2 → Cheerful).
-
 - clusters.txt: Cluster IDs used during pre-grouping.
-
 - categories.txt: Full list of target emotion categories (e.g., Confident, Poignant, Silly, Intense).
 
-### Running the Models
+## Running the Models
 
 **Baseline (Static Fusion)**
 ```bash
@@ -88,6 +85,7 @@ python models/dynamic.py
 - Each vector is scaled (0–1 score) and then fused before prediction.
 
 ## Model Specs
+**Built on:**
 - Architecture: 3-layer FNN (simple and lightweight)
 - Framework: PyTorch
 - Batch size: 16
@@ -96,22 +94,22 @@ python models/dynamic.py
 - Epochs: 50
 - Evaluation: torch.no_grad() for consistent inference
 
-Evaluation metrics: Accuracy, Precision, Recall, F1-Scor
+**Evaluation metrics:** Accuracy, Precision, Recall, F1-Scor
 
 Degradation is applied randomly to one modality at test time, and results are averaged across 3 random seeds.
 
-### Output
+## Output
 The performance summary including accuracy, F1-score, and confusion matrix is written to:  
-model.txt
+***model.txt***
 
-### Reports and Documentation
+## Reports and Documentation
 All written deliverables related to the project are located in the reports/ folder. This includes:
 - Project Proposal – Initial design, goals, and methodology
 - Progress Report – Mid-project status and adjustments
 - Final Report – Full description of the system, results, and takeaways
 - Demo Slides – Visual summary used during the final presentation
 
-### Authors
-Developed by Annie Xu and Beijia Zhang
+## Authors
+Developed by **Annie Xu** and **Beijia Zhang**
 For COMS E6156 – Topics in Software Engineering
 Columbia University, Spring 2025
