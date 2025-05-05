@@ -110,6 +110,6 @@ All written deliverables related to the project are located in the reports/ fold
 - Demo Slides – Visual summary used during the final presentation
 
 ## Authors
-Developed by **Annie Xu** and **Beijia Zhang**
-For COMS E6156 – Topics in Software Engineering
-Columbia University, Spring 2025
+Developed by **Annie Xu** and **Beijia Zhang**  
+For COMS E6156 – Topics in Software Engineering  
+Columbia University, Spring 2025  
