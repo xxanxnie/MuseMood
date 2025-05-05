@@ -1,3 +1,12 @@
 pydub
 pretty_midi
 numpy
+numpy>=1.20
+scipy>=1.6
+pandas>=1.2
+librosa>=0.9
+torch>=1.12
+scikit-learn>=1.0
+matplotlib>=3.4
+tqdm>=4.60
+soundfile>=0.10
